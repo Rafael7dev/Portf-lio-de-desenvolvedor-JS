@@ -1,13 +1,10 @@
 {
-  "nome": "Venilton FalvoJr",
-  "titulo": "Education Tech Lead na DIO",
-  "localidade": {
-    "cidade": "Araraquara",
-    "estado": "São Paulo",
-    "pais": "Brasil"
-  },
-  "telefone": "(16) 99721-8281",
-  "email": "venilton@dio.me",
+  "nome": "Rafael Lima da Silva",
+  "photo":"https://avatars.githubusercontent.com/u/99049995?v=4",
+  "job": "Analista de TI em Shopping Metro Boulevard Tatuapé",
+  "location": "São paulo - SP",
+  "phone": "(11) 97384-8114",
+  "email": "biosraf@gmail.com",
   "skills": {
     "hardSkills": [
       {
