@@ -112,13 +112,14 @@
   ],
   "experiencias": [
     {
-      "nome": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
-      }
+      "name": "Analista de TI / Shopping Metro Boulevard Tatuape ",
+      "period": "jan 2023 - até o momento",
+      "description": "Digital Innovation One (DIO)"      
+    },
+    {
+      "name": "Gerente Técnico Sênior / Datasoft Sbj ",
+      "period": "ago de 2021 - ago de 2022",
+      "description": "Digital Innovation One (DIO)"      
     }
   ]
 }
