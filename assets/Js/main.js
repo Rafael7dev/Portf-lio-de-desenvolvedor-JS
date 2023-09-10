@@ -38,8 +38,8 @@ function updateLanguages(profileData) {
 }
 
 function updatePortfolio(profileData) {
-    const Portfolio = document.getElementById('profile.portfolio')
-    Portfolio.innerHTML = profileData.portfolio.map(project => {
+    const portfolio = document.getElementById('profile.portfolio')
+    portfolio.innerHTML = profileData.portfolio.map(project => {
         return `
             <li>
                 <h3 ${project.github ? 'class="github' : ''}>${project.name}</h3>
