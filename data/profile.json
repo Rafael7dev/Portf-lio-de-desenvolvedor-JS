@@ -100,12 +100,12 @@
   ],
   "portfolio": [
     {
-      "nome": "Pagina de Portifolío",
+      "name": "Pagina de Portifolío",
       "url": "https://github.com/Rafael7dev/Portfolio-de-Desenvolvedor-JS",      
       "github": true
     },
     {
-      "nome": "Desenvolvendo Trilha JS - Pokédex",
+      "name": "Desenvolvendo Trilha JS - Pokédex",
       "url": "https://github.com/Rafael7dev/js-developer-pokedex",      
       "github": true
     }
